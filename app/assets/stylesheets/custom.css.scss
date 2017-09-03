@@ -1,0 +1,14 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+body {
+    //build by @_ighosh
+    background: #0cebeb;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(left, #29ffc6, #20e3b2, #0cebeb);
+    background: -moz-linear-gradient(left, #29ffc6, #20e3b2, #0cebeb);
+    background: -o-linear-gradient(left, #29ffc6, #20e3b2, #0cebeb);
+    background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
