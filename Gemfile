@@ -68,3 +68,6 @@ gem 'figaro', '1.0.0'
 
 #stripe api gem for handling payments
 gem 'stripe', '1.16.1'
+
+#use paperclip for image upload
+gem 'paperclip', '4.2.1'
